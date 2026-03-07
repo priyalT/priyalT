@@ -45,6 +45,10 @@ hello! I'm **Priyal**, currently a final year undergrad studying B.Sc Life Scien
 ![](https://nirzak-streak-stats.vercel.app/?user=priyalT&theme=cobalt&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=priyalT&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+### 📜 publications:
+
+- **[J.1]** Veena Ghuriani, Jyotsna Talreja Wassan, **Priyal Tripathi**, Anshika Chauhan (2025). XGB-BIF: An XGBoost-Driven Biomarker Identification Framework for Detecting Cancer Using Human Genomic Data. *International Journal of Molecular Sciences*, 26(12), 5590. [DOI: 10.3390/ijms26125590](https://doi.org/10.3390/ijms26125590)
+
 ### 🦤 some quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
