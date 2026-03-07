@@ -18,8 +18,7 @@ hello! I'm **Priyal**, currently a final year undergrad studying B.Sc Life Scien
 - undergrad researcher | published in IJMS 2025
 - ex-researcher @ IIT Delhi & IIT Roorkee
 - building bioinformatics tools & pipelines
-- currently exploring transcriptomics and AI: building a spatial transcriptomics analysis platform for tumor
-- microenvironment research
+- currently exploring transcriptomics and AI: building a spatial transcriptomics analysis platform for tumor microenvironment research
 - proficient in python, bash scripting and R
 - experience with CI/CD, CLI design, and Git
 
