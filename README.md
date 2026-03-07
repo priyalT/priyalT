@@ -23,6 +23,15 @@ hello! I'm **Priyal**, currently a final year undergrad studying B.Sc Life Scien
 - proficient in python, bash scripting and R
 - experience with CI/CD, CLI design, and Git
 
+### 🦙 research experience
+
+| Institution | Role | Period | Focus |
+|----------------|---------|-----------|---------|
+| **IIT Delhi** | Undergraduate Researcher | Jun 2025 – Dec 2025 | Protein–ligand binding free energy prediction; benchmarked CatBoost & XGBoost against RASPD+ for virtual screening |
+| **IIT Roorkee** | Undergraduate Researcher | Aug 2024 – Feb 2025 | Comparative transcriptomic profiling of Indian vs TCGA breast cancer cohorts; UMAP clustering & differential gene expression |
+| **Maitreyi College, UoD** | Undergraduate Researcher | Jan 2025 – Jan 2026 | Multi-model ML framework on TCGA cancer omics data; SHAP & LIME explainability; cross-cohort validation |
+| **Maitreyi College, UoD** | Summer Research Intern | Jul 2024 – Aug 2024 | Built XGB-BIF — biomarker identification framework for gastric, lung & breast cancer with >90% accuracy |
+
 ### 🪼 connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/priyal-tripathi-baa54424a/) 
 
