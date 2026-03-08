@@ -1,9 +1,13 @@
 <a href="https://www.linkedin.com/in/priyal-tripathi-baa54424a/">
-  <img align="left" alt="Priyal's LinkdeIn" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" />
+  <img align="left" alt="Priyal's LinkdeIn" width="30px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" />
 </a>
 <a href="https://leetcode.com/u/priyaltripathi2910/">
-  <img align="left" alt="Priyal's Leetcode" width="22px" src="https://leetcode.com/_next/static/images/logo-dark-c96c407d175e36c81e236fcfdd682a0b.png" />
+  <img align="left" alt="Priyal's Leetcode" width="25px" src="https://leetcode.com/_next/static/images/logo-dark-c96c407d175e36c81e236fcfdd682a0b.png" />
 </a>
+<a href="https://www.kaggle.com/priyaltri">
+  <img align="left" alt="Priyal's Kaggle" width="65px" src="https://www.kaggle.com/static/images/logos/kaggle-logo-gray.svg" />
+</a>
+
 
 <br />
 <br />
