@@ -7,9 +7,12 @@
 <a href="https://www.kaggle.com/priyaltri">
   <img align="left" alt="Priyal's Kaggle" width="65px" src="https://www.kaggle.com/static/images/logos/kaggle-logo-gray.svg" />
 </a>
-
+<a href="https://x.com/PriTPriT99">
+  <img align="left" alt="Priyal's Twitter" width="25px" src="https://github.com/user-attachments/assets/b7d357aa-5fda-41e9-98cc-18c62e8a472f" />
+</a>
 
 <br />
+
 <br />
 
 hello! I'm **Priyal**, currently a final year undergrad studying B.Sc Life Sciences. I love to build, and I hope I continue building more cool stuff!
